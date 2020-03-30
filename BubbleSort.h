@@ -1,3 +1,7 @@
+// Trimigno Giuseppe , Computer Engineering at Univeristy of Parma, Italy
+// Bubble Sort, a sorting algorithm with O(n^2) complexity in every case.
+
+
 #ifndef BUBBLE_H
 #define BUBBLE_H
 

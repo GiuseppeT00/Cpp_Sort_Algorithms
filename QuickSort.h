@@ -1,3 +1,8 @@
+// Trimigno Giuseppe , Computer Engineering at Univeristy of Parma, Italy
+// Quick Sort, a sorting algorithm with O(nlogn) complexity in best and avg case.
+// Unfortunately it has O(n^2) complexity in worst case.
+
+
 #ifndef QUICK_H
 #define QUICK_H
 

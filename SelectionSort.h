@@ -1,3 +1,8 @@
+// Trimigno Giuseppe , Computer Engineering at Univeristy of Parma, Italy
+// Selection Sort, a sorting algorithm with O(n^2) complexity in every case.
+// It's good when swap take a lot of memory, because it made a max of n-1 swap
+
+
 #ifndef SELECTION_H
 #define SELECTION_H
 

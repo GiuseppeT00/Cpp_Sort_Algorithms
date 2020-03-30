@@ -1,4 +1,11 @@
+// Trimigno Giuseppe , Computer Engineering at Univeristy of Parma, Italy
+// A main file to test sorting algorithms
+
 #include "InsertionSort.h"
+#include "BubbleSort.h"
+#include "SelectionSort.h"
+#include "QuickSort.h"
+//#include "SortAlgorithms(All_In_One).h"
 #include "utility.h"
 #include <ctime>
 #include <cstdlib>
@@ -27,6 +34,9 @@ int main(int argc, char *argv[]) {
 	arrayPrint(V, size);
 
 	insertionSort(V, size);
+	bubbleSort(V, 0, size - 1);
+	selectionSort(V, 0, size - 1);
+	quickSort(V, 0, size - 1);
 	arrayPrint(V, size);
 
 	return 0;

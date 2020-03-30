@@ -1,3 +1,7 @@
+// Trimigno Giuseppe , Computer Engineering at Univeristy of Parma, Italy
+// Utilities for testing a sorting algorithm.
+
+
 #ifndef MY_TEMPLATES
 #define MY_TEMPLATES
 

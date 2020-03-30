@@ -1,3 +1,8 @@
+// Trimigno Giuseppe , Computer Engineering at Univeristy of Parma, Italy
+// Insertion Sort, a sorting algorithm with O(n) complexity in best case.
+// But an O(n^2) complexity in avg and worst cases.
+
+
 #ifndef INSERTION_H
 #define INSERTION_H
 
